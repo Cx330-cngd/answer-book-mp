@@ -4,12 +4,15 @@
 
 ## 运行方式
 
-```bash
+1. 安装依赖
+打开终端，进入项目根目录：
+cd e:\answer-book-mp
+安装项目依赖：
 npm install
+2. 启动开发服务器
 npm run dev:h5
-```
-
-浏览器访问 http://localhost:5173/
+3. 访问应用
+在浏览器中打开：http://localhost:5173/
 
 ## 目录结构
 
