@@ -4,6 +4,10 @@
 
 ## 运行方式
 
+```bash
+npm install
+npm run dev:h5
+```
 1. 安装依赖
 打开终端，进入项目根目录：
 cd e:\answer-book-mp
